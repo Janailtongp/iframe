@@ -1,0 +1,24 @@
+/*Iframe Monday*/
+.form-wrapper-component, .form-content-component {
+    box-shadow: none !important;
+}
+.form-content-component, .form-content {
+    width: 100% !important;
+}
+
+.form-content-component, .form-question {
+    padding-top: 10px !important;
+    padding-bottom:0 !important;
+}
+
+.form-content-component, .form-titles, .form-title {
+    text-align: center !important;
+}
+
+.form-content-component, .form-input {
+    border-radius: 15px !important;
+}
+ .Select div, .Select input, .Select span {
+    box-sizing: border-box;
+    border-radius: 10px !important;
+}
